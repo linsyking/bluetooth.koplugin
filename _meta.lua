@@ -1,7 +1,7 @@
 local _ = require("gettext")
 
 return {
-    name = "kindleaudio",
-    fullname = _("Kindle audio"),
+    name = "bluetooth",
+    fullname = _("Bluetooth"),
     description = _([[Manage Kindle Bluetooth audio and volume.]]),
 }

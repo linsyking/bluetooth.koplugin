@@ -2,7 +2,7 @@ local logger = require("logger")
 
 local BtBackend = {
     publisher = "com.lab126.btfd",
-    appname = "com.github.koreader.kindleaudio",
+    appname = "com.github.koreader.bluetooth",
 }
 
 local ADDRESS_KEYS = { "address", "bdaddr", "bdAddr", "mac", "deviceAddress", "addr", "id" }

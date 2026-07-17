@@ -2,7 +2,7 @@ local logger = require("logger")
 
 local VolumeBackend = {
     publisher = "com.lab126.audiomgrd",
-    appname = "com.github.koreader.kindleaudio",
+    appname = "com.github.koreader.bluetooth",
     min = 1,
     max = 8,
 }

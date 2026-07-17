@@ -18,7 +18,7 @@ local BtBackend = require("bt_backend")
 local VolumeBackend = require("volume_backend")
 
 local KindleAudio = WidgetContainer:extend{
-    name = "kindleaudio",
+    name = "bluetooth",
     is_doc_only = false,
 }
 
